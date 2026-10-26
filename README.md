@@ -1,2 +1,2 @@
 # para-controlar-las-lluvias
-app para saber que nivel de lluvias pueden haber en un futuro
+Este proyecto consiste en el desarrollo de una aplicación que monitorea las condiciones climáticas de una ciudad o región y avisa a los usuarios cuando se prevén lluvias intensas u otros eventos naturales que puedan representar un riesgo, como tormentas, vientos fuertes o sismos. La aplicación consulta datos meteorológicos en tiempo real a través de APIs públicas, los analiza y genera alertas claras y oportunas.
